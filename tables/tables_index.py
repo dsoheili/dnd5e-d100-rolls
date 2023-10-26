@@ -1,4 +1,4 @@
-# Import all external variables
+# Items
 from .items.wizards_chamber import wizard_chamber_items
 from .items.alchemists_lab import alchemists_lab_items
 from .items.cottage import cottage_items
@@ -16,8 +16,18 @@ from .items.fantasy_desk import fantasy_desk_items
 from .items.inns_kitchen import inns_kitchen_items
 from .items.weapons_armor_and_equipment import weapons_armor_and_equipment_items
 
-# Index for all tables
-tables = {
+# Effects
+from .effects.minor_curses import minor_curses_list
+from .effects.major_curses import major_curses_list
+from .effects.deadly_curses import deadly_curses_list
+from .effects.fatal_curses import fatal_curses_list
+from .effects.blessings import blessings_list
+from .effects.remarkable_blessings import remarkable_blessings_list
+
+# Experiences
+from .experiences.nightmares import nightmares_list
+
+item_tables = {
     "Wizard's Chamber": wizard_chamber_items,
     "Alchemist's Lab": alchemists_lab_items,
     "Cottage": cottage_items,
@@ -33,5 +43,26 @@ tables = {
     "Dead Goblin": dead_goblin_items,
     "Fantasy Desk": fantasy_desk_items,
     "Inn's Kitchen": inns_kitchen_items,
-    "Weapons, Armor and Equipment": weapons_armor_and_equipment_items
+    "Weapons, Armor and Equipment": weapons_armor_and_equipment_items,
 }
+
+effects_tables = {
+    "Curses, Minor": minor_curses_list,
+    "Curses, Major": major_curses_list,
+    "Curses, Deadly": deadly_curses_list,
+    "Curses, Fatal": fatal_curses_list,
+    "Blessings": blessings_list,
+    "Blessings, Remarkable": remarkable_blessings_list,
+}
+
+experiences_tables = {
+    "Nightmares": nightmares_list
+}
+
+encounter_tables = {}
+
+name_tables = {}
+
+
+# Index for all tables
+tables = item_tables | effects_tables | experiences_tables | encounter_tables | name_tables

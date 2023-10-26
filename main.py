@@ -1,8 +1,13 @@
 import tkinter as tk
-import random
-from ttkwidgets.autocomplete import AutocompleteCombobox
 from tkinter import ttk
-
+from tkinter import StringVar
+from ttkwidgets.autocomplete import AutocompleteCombobox
+import random
+from tables.tables_index import item_tables
+from tables.tables_index import effects_tables
+from tables.tables_index import encounter_tables
+from tables.tables_index import experiences_tables
+from tables.tables_index import name_tables
 from tables.tables_index import tables
 
 def get_item_from_table(table_name, item_index, num_items):
@@ -14,7 +19,7 @@ def get_item_from_table(table_name, item_index, num_items):
         elif item_index == "":
             result = random.choice(items)
         else:
-            result = items[int(item_index)-1]
+            result = items[int(item_index) - 1]
 
         return result
 
@@ -39,8 +44,31 @@ def on_roll_click(num_items):
 
     result_text.config(state=tk.DISABLED)
 
+def update_table_selector(event):
+    category = category_var.get()
+    if category == "All":
+        table_selector['values'] = list(tables.keys())
+    else:
+        filtered_tables = [table for table, cat in table_categories.items() if cat == category]
+        table_selector['values'] = filtered_tables
+
 app = tk.Tk()
 app.title("D100 Table Roller")
+
+table_categories = {}
+for table_name in tables:
+    if table_name in item_tables:
+        table_categories[table_name] = "Items"
+    elif table_name in effects_tables:
+        table_categories[table_name] = "Effects"
+    elif table_name in experiences_tables:
+        table_categories[table_name] = "Experiences"
+    elif table_name in encounter_tables:
+        table_categories[table_name] = "Encounters"
+    elif table_name in name_tables:
+        table_categories[table_name] = "Names"
+    else:
+        table_categories[table_name] = "Other"
 
 # Input field
 input_label = tk.Label(app, text="Enter a number (1-100):")
@@ -51,10 +79,23 @@ input_entry.pack(pady=10)
 # Table selector
 table_label = tk.Label(app, text="Select a d100 table:")
 table_label.pack()
-table_var = tk.StringVar()
+table_var = StringVar()
 table_selector = AutocompleteCombobox(app, textvariable=table_var, completevalues=list(tables.keys()))
 table_selector.pack(pady=10)
 table_selector.config(width=30)
+
+# Category selector
+category_var = StringVar()
+category_label = tk.Label(app, text="Select a category:")
+category_label.pack()
+
+# Add "Select All" to categories
+categories = ["All"] + list(set(table_categories.values()))
+category_selector = ttk.Combobox(app, textvariable=category_var, values=categories)
+category_selector.pack()
+category_var.set("All")
+
+category_selector.bind("<<ComboboxSelected>>", update_table_selector)
 
 # Roll buttons
 button_frame = tk.Frame(app)
