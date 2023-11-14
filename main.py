@@ -8,6 +8,10 @@ from tables.tables_index import effects_tables
 from tables.tables_index import encounter_tables
 from tables.tables_index import experiences_tables
 from tables.tables_index import name_tables
+from tables.tables_index import crafting_tables
+from tables.tables_index import location_tables
+from tables.tables_index import events_tables
+from tables.tables_index import quests_tables
 from tables.tables_index import tables
 
 def get_item_from_table(table_name, item_index, num_items):
@@ -67,6 +71,14 @@ for table_name in tables:
         table_categories[table_name] = "Encounters"
     elif table_name in name_tables:
         table_categories[table_name] = "Names"
+    elif table_name in location_tables:
+        table_categories[table_name] = "Locations"
+    elif table_name in crafting_tables:
+        table_categories[table_name] = "Crafting Items"
+    elif table_name in events_tables:
+        table_categories[table_name] = "Events"
+    elif table_name in quests_tables:
+        table_categories[table_name] = "Quests"
     else:
         table_categories[table_name] = "Other"
 

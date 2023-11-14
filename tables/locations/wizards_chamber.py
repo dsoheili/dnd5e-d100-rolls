@@ -50,7 +50,7 @@ wizard_chamber_items = [
     "Snake preserved in alcohol",
     "Journal book (blank)",
     "Butterflfl y net",
-    "Illustrated book about fifi sh",
+    "Illustrated book about fish",
     "Vellum (4, blank)",
     "Glass bottle",
     "Ink blotter",
