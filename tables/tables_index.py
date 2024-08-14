@@ -20,6 +20,8 @@ from .items.weapons_armor_and_equipment import weapons_armor_and_equipment_items
 from .items.gemstones_1 import gemstones_1_list
 from .items.gemstones_2 import gemstones_2_list
 from .items.gemstones_3 import gemstones_3_list
+from .items.trinkets_phb import trinkets_phb_items
+from .items.food import food_list
 
 # Effects
 from .effects.minor_curses import minor_curses_list
@@ -63,6 +65,8 @@ item_tables = {
     "Gemstones (10 gp)": gemstones_1_list,
     "Gemstones (50 gp)": gemstones_2_list,
     "Gemstones (100 gp)": gemstones_3_list,
+    "Trinkets (PHB)": trinkets_phb_items,
+    "Food": food_list,
 }
 
 location_tables = {
