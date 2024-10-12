@@ -31,6 +31,7 @@ from .effects.fatal_curses import fatal_curses_list
 from .effects.blessings import blessings_list
 from .effects.remarkable_blessings import remarkable_blessings_list
 from .effects.wild_magic_surge import wild_magic_surge_list
+from .effects.wild_magic_pact import wild_magic_pact_list
 
 # Experiences
 from .experiences.nightmares import nightmares_list
@@ -93,6 +94,7 @@ effects_tables = {
     "Blessings": blessings_list,
     "Blessings, Remarkable": remarkable_blessings_list,
     "Wild Magic Surge": wild_magic_surge_list,
+    "Wild Magic Pact (Barbarian)": wild_magic_pact_list,
 }
 
 experiences_tables = {

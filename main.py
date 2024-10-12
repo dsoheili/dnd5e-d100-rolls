@@ -42,7 +42,7 @@ def on_roll_click(num_items):
 
     if isinstance(result, list):
         for i, item in enumerate(result, 1):
-            result_text.insert(tk.END, f"{item}\n")
+            result_text.insert(tk.END, f"- {item}\n")
     else:
         result_text.insert(tk.END, result)
 
