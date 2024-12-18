@@ -21,6 +21,7 @@ from .items.gemstones_1 import gemstones_1_list
 from .items.gemstones_2 import gemstones_2_list
 from .items.gemstones_3 import gemstones_3_list
 from .items.trinkets_phb import trinkets_phb_items
+from .items.interesting_trinkets import interesting_trinkets_items
 from .items.food import food_list
 
 # Effects
@@ -46,6 +47,7 @@ from .names.male_names_3 import male_names_3_list
 from .crafting.potion_ingredients import potion_ingredients_list
 from .crafting.medicinal_herbs import medicinal_herbs_list
 from .crafting.culinary_herbs_and_spices import culinary_herbs_and_spices_list
+from .crafting.alchemy_ingredients import alchemy_ingredients_list
 
 # Encounters
 from .encounters.forest import forest_encounters_list
@@ -67,6 +69,7 @@ item_tables = {
     "Gemstones (50 gp)": gemstones_2_list,
     "Gemstones (100 gp)": gemstones_3_list,
     "Trinkets (PHB)": trinkets_phb_items,
+    "Trinkets (Interesting)": interesting_trinkets_items,
     "Food": food_list,
 }
 
@@ -118,7 +121,8 @@ name_tables = {
 crafting_tables = {
     "Potion Ingredients": potion_ingredients_list,
     "Medicinal Herbs": medicinal_herbs_list,
-    "Culinary Herbs & Spices": culinary_herbs_and_spices_list
+    "Culinary Herbs & Spices": culinary_herbs_and_spices_list,
+    "Alchemy Ingredients": alchemy_ingredients_list
 }
 
 events_tables = {
