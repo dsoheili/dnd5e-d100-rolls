@@ -23,6 +23,8 @@ from .items.gemstones_3 import gemstones_3_list
 from .items.trinkets_phb import trinkets_phb_items
 from .items.interesting_trinkets import interesting_trinkets_items
 from .items.food import food_list
+from .items.potions_beneficial import potions_beneficial_list
+from .items.potions_detrimental import potions_detrimental_list
 
 # Effects
 from .effects.minor_curses import minor_curses_list
@@ -71,6 +73,8 @@ item_tables = {
     "Trinkets (PHB)": trinkets_phb_items,
     "Trinkets (Interesting)": interesting_trinkets_items,
     "Food": food_list,
+    "Potions (Beneficial)": potions_beneficial_list,
+    "Potions (Detrimental)": potions_detrimental_list,
 }
 
 location_tables = {
