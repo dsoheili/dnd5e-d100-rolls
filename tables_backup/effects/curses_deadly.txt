@@ -1,0 +1,100 @@
+Curse of Eclipsed Hope: The character's presence casts a shadow over the hopes of those around them, causing allies within 30 feet to become filled with despair, imposing disadvantage on all ability checks related to charisma.
+Soulbound Affliction: The character's soul is tethered to a malevolent entity, inflicting upon them a profound sense of despair, imposing disadvantage on all saving throws.
+Marked by the Void: The character is marked by the void itself, attracting cosmic horrors and alien entities. They have disadvantage on all saving throws against otherworldly creatures.
+Eldritch Perversion: The character undergoes a grotesque transformation, with their body warping into a nightmarish form. They gain a random minor fiendish or aberrant feature, which can lead to distrust and fear.
+Curse of Eternal Torment: The character is condemned to eternal torment, suffering excruciating pain that never subsides. They are unable to concentrate on spells.
+Curse of Eternal Thirst: The character is afflicted by an unquenchable thirst for blood, similar to that of a vampire. They must make a DC 15 Wisdom saving throw each day or be compelled to drink the blood of a living creature, even if it goes against their moral code. Failure to do so results in suffering 2d6 psychic damage.
+Soulbound Enfeeblement: The character's soul is bound to an entity that drains their vitality. They suffer disadvantage on all Strength-based ability checks and saving throws.
+Curse of Maddening Whispers: The character is plagued by constant, maddening whispers that echo in their mind, imposing madness as per the rules in the Dungeon Master's Guide.
+Eldritch Strain: The character's connection to eldritch forces places an immense burden on their body and mind. They experience a constant, gnawing discomfort, making it difficult to focus and act with precision. This strain imposes a -1 penalty to Dexterity and Wisdom ability scores.
+Marked by Desolation: The character is marked by a malevolent force that attracts natural disasters and plagues. Catastrophic events follow them wherever they go.
+Eldritch Confinement: The character is trapped within an eldritch prison, causing them to become ethereal and intangible at unpredictable times.
+Curse of the Cursed: The character becomes a beacon for all curses, attracting curse-related events and misfortunes. They have disadvantage on all saving throws against curses and hexes.
+Soul Drain: The character's soul is slowly drained, causing them to lose 2 point of Wisdom.
+Marked by the Endless Abyss: The character is marked by an endless abyss, attracting nightmarish creatures and endless darkness. Abyssal creatures and undead are drawn to them.
+Eldritch Maw: The character's mouth is transformed into a grotesque, fanged maw that constantly hungers for flesh, causing them to suffer from a condition of cannibalistic cravings and their appearance terrifies others.
+Curse of Timelessness: The character is frozen in time, unable to age or experience the passage of time. They are immune to aging effects but can never grow or develop in any way.
+Soulbound Entropy: The character's soul is bound to the very concept of decay and entropy. All objects and living creatures they touch begin to deteriorate rapidly upon contact.
+Marked by the Endless Void: The character is marked by the void itself, attracting cosmic horrors and alien entities. They have disadvantage on all saving throws against creatures from the Far Realm.
+Eldritch Impairment: The character's mind is impaired by eldritch knowledge. They suffer a -2 penalty to Intelligence, and their thoughts are plagued by eldritch visions.
+Curse of the Forgotten: The character's existence is forgotten by the world, and they are gradually erased from the memories of all who knew them. No one can remember their name or past.
+Soulbound Corruption: The character's soul is bound to a corrupting force, leading to a gradual alignment shift toward evil. They find it increasingly difficult to resist malevolent actions.
+Marked by the Starless Sky: The character is marked by the starless sky, attracting shadowy entities and creatures from the Plane of Shadow. They have disadvantage on all saving throws against shadow magic.
+Eldritch Revelation: The character gains insights into forbidden eldritch truths, but this knowledge torments their mind. They have advantage on Intelligence (Arcana) checks but suffer levels of madness.
+Curse of the Spectral Chains: The character is bound by spectral chains that constrict their movements. They suffer a -2 penalty to Dexterity and are vulnerable to ghostly attacks.
+Soulbound Agony: The character's soul is bound to an entity that inflicts excruciating pain on them. They suffer levels of pain and suffering, which translates to a -2 penalty to all attack rolls.
+Curse of Fractured Time: The character's connection to time is shattered, causing them to randomly phase in and out of existence for 1d4 rounds at the start of each combat encounter. During these phases, they are unable to take any actions, and they are immune to all damage, but they cannot affect or be affected by anything.
+Eldritch Embrace: The character is embraced by eldritch tendrils that constantly writhe around their body. They have disadvantage on all Charisma checks and are unable to speak coherently, making communication difficult.
+Marked by Betrayal: The character is marked by a force that attracts betrayal. Whenever they form a bond or alliance, there's a 50% chance that it will ultimately lead to betrayal or treachery.
+Curse of the Blood Moon: The character is cursed to transform into a bloodthirsty monster during every full moon. They lose control of their actions, attacking allies and innocents indiscriminately until the moon sets.
+Eldritch Abyssal Bond: The character forms a perilous bond with an eldritch entity. Their very presence distorts reality, causing spells and abilities to behave unpredictably within a 30-foot radius around them.
+Soulbound Insanity: The character's soul is bound to a malevolent force that induces madness. They suffer from madness as per the rules in the Dungeon Master's Guide.
+Marked by Eternal Dusk: The character is marked by eternal dusk, causing them to take double damage from spells and abilities that use twilight or dusk. Their vision is also limited, granting them only 30 feet of darkvision.
+Curse of the Cursed: The character becomes a beacon for all curses, attracting curse-related events and misfortunes. Whenever a curse is cast or affects anyone nearby, the character is also affected by it.
+Soul Drain: The character's soul is slowly drained, causing them to lose 1 point of Wisdom. This drain leads to a slow decline in their mental faculties.
+Eldritch Corrosion: The character's body begins to corrode from exposure to eldritch forces, causing them to lose 1 point of Constitution. Their physical health deteriorates over time.
+Cursed Resonance: The character's presence resonates with dark energies, attracting malevolent creatures from other planes. Every long rest, there's a 50% chance that they will be attacked by otherworldly beings.
+Marked by the Void: The character is marked by the void itself, attracting cosmic horrors and alien entities. These entities occasionally visit the character's dreams, causing intense nightmares.
+Eldritch Parasitism: The character is infested with eldritch parasites that feed on their life force, causing them to lose 1 hit point. The parasites cause chronic weakness.
+Soulbound Deprivation: The character's soul is bound to a malevolent entity that deprives them of rest, causing insomnia and exhaustion. They are unable to benefit from long rests.
+Curse of the Obliterated Mind: The character's mind is obliterated, causing them to lose all sense of self and identity. They are reduced to a mindless state, unable to communicate or perform any actions.
+Eldritch Perversion: The character undergoes a grotesque transformation, with their body warping into a nightmarish form. This transformation is horrifying and makes them an outcast.
+Cursed Eternal Torment: The character is condemned to eternal torment, suffering excruciating pain that never subsides. This pain imposes disadvantage on all actions and renders them unable to concentrate on spells.
+Curse of Eternal Thirst: The character is afflicted by an unquenchable thirst for blood, similar to that of a vampire. They must make a DC 15 Wisdom saving throw each day or be compelled to drink the blood of a living creature, even if it goes against their moral code. Failure to do so results in suffering 2d6 psychic damage.
+Soulbound Enfeeblement: The character's soul is bound to an entity that drains their vitality. They suffer disadvantage on all Strength-based ability checks and saving throws, as their physical strength is gradually sapped away.
+Marked by the Forsaken: The character is marked by the forsaken spirits of the dead. They are haunted by ghostly apparitions every night, causing restless sleep and frequent nightmares.
+Eldritch Leech: The character becomes a conduit for eldritch leeches that feed on their arcane energy. All spellcasting becomes unpredictable; whenever they cast a spell, there's a 50% chance it will fail.
+Curse of the Lycanthrope: The character is afflicted by a never-ending curse of lycanthropy. During each full moon, they uncontrollably transform into a random type of werecreature (e.g., werewolf, werebear) and attack their allies.
+Soulbound Fragmentation: The character's soul is fragmented into pieces, leading to erratic behavior and personality shifts. At random intervals, their alignment changes for 1d4 days.
+Marked by Phobias: The character is marked by otherworldly phobias that plague their mind. They gain an irrational fear of a randomly determined object or creature type, imposing disadvantage on related checks and saves.
+Eldritch Disintegration: The character's body undergoes a slow disintegration due to eldritch forces, reducing their maximum hit points by 1d8 hit points.
+Cursed Reflection: The character's reflection in mirrors becomes a malevolent entity that occasionally manifests and attempts to harm them. This entity has a stat block and can engage in combat.
+Curse of Vampirism: The character is cursed with vampirism. They require a daily feeding of fresh blood or suffer from bloodlust, attacking allies and innocent creatures nearby.
+Soulbound Hex: The character's soul is hexed, making them more susceptible to magic. They suffer a -2 penalty to saving throws against spells and magical effects.
+Marked by Unending Darkness: The character is marked by unending darkness, causing them to take double damage from spells and abilities that invoke shadow or darkness.
+Eldritch Frenzy: The character periodically enters a state of eldritch frenzy, attacking the nearest creature, ally or enemy, in a blind rage. They must make a Wisdom saving throw (DC 15) to resist this frenzy.
+Curse of the Doppelganger: The character becomes a doppelganger's target for identity theft. They frequently encounter accusations of crimes they didn't commit, and their true identity is constantly questioned.
+Soulbound Immobility: The character's soul is bound to an entity that hinders their mobility. Their speed is reduced by half, and they can't use the Dash action.
+Marked by Unhealing: The character is marked by a power that prevents magical healing. They regain no hit points from healing spells.
+Eldritch Paralysis: The character is periodically paralyzed by eldritch forces, making them a sitting duck in combat. At the start of each turn, they must make a Constitution saving throw (DC 15) or be paralyzed for 1 round.
+Curse of Discord: The character is cursed with eternal discord. Their mere presence causes discord among allies, imposing disadvantage on all attack rolls and saving throws of allies within 30 feet.
+Soulbound Rending: The character's soul is bound to an entity that periodically rends their flesh. At random moments, they take 2d6 slashing damage.
+Marked by Decay: The character is marked by decay, causing all organic matter they touch to wither and rot. They cannot eat or drink without causing it to spoil.
+Eldritch Blackout: The character is subjected to eldritch blackouts. They periodically lose consciousness, falling asleep at random times during the day or night.
+Curse of Apathy: The character is cursed with apathy. They suffer disadvantage on all initiative rolls and move at half their normal speed.
+Soulbound Enervation: The character's soul is bound to an entity that saps their vitality. They suffer a -2 penalty to their Constitution score.
+Marked by Inversion: The character is marked by an inversion of reality, causing them to perceive the world upside-down. They have disadvantage on all ranged attacks and ranged spell attacks.
+Curse of Frailty: The character's bones become brittle, imposing a -2 penalty to their Strength score. This penalty affects their carrying capacity, attack rolls, and damage rolls.
+Marked by Betrayal: The character is marked by a dark force that attracts betrayal. They have disadvantage on all Charisma (Persuasion) and Wisdom (Insight) checks when interacting with others.
+Eldritch Draining: The character is periodically drained of their magical energy. They lose one spell slot of their highest available level permanently.
+Soulbound Deception: The character's soul is bound to a deceiving entity. They permanently have disadvantage on saving throws against illusion spells and effects.
+Curse of Feeble Magic: The character's magical prowess wanes, reducing their spell save DC and spell attack bonus by 2.
+Marked by Desperation: The character is marked by an aura of desperation. They permanently suffer disadvantage on Wisdom (Survival) checks and are compelled to take unnecessary risks.
+Eldritch Weakness: The character becomes physically weak. They permanently have disadvantage on Strength saving throws and ability checks.
+Soulbound Hesitation: The character's soul is bound to hesitation, imposing disadvantage on all initiative rolls and causing them to always go last in combat.
+Curse of the Forsaken: The character is marked as forsaken, attracting the ire of celestial beings. They have disadvantage on saving throws against celestial spells and effects.
+Marked by Darkness: The character is marked by darkness itself. They take double damage from spells and abilities that utilize darkness or shadow.
+Eldritch Torpor: The character is afflicted by an eldritch torpor, causing them to move at half speed and have disadvantage on Dexterity checks.
+Soulbound Restlessness: The character's soul is bound to restlessness, preventing them from benefiting from long or short rests. They do not regain hit points or abilities during rests.
+Curse of Silence: The character is cursed with silence, rendering them permanently unable to cast spells with verbal components.
+Marked by the Abyss: The character is marked by the abyss, attracting unspeakable horrors and fiendish entities. They have disadvantage on saving throws against fiendish spells and effects.
+Eldritch Impotence: The character's eldritch abilities become impotent. They permanently lose one spell slot of their highest available level, and the maximum spell level they can cast is reduced by one.
+Soulbound Paralysis: The character's soul is bound to paralysis, imposing disadvantage on all Dexterity saving throws and ability checks.
+Curse of Madness: The character is cursed with madness, gaining a random form of indefinite madness from the Dungeon Master's Guide.
+Soulbound Fragility: The character's soul is bound to fragility, causing them to take double damage from critical hits and precision-based attacks.
+Curse of Desolation: The character is cursed with desolation, causing all creatures to perceive them as an omen of doom. They have disadvantage on all Charisma checks when interacting with others.
+Marked by Phantoms: The character is marked by vengeful phantoms, causing them to suffer disadvantage on saving throws against necrotic spells and effects.
+Eldritch Backlash: The character is subjected to eldritch backlash. When they cast a spell, they must succeed on a DC 15 Constitution saving throw or suffer the effects of the spell as if it were cast on them.
+Soulbound Desolation: The character's soul is bound to a desolate plane, causing them to take double damage from spells and abilities that invoke barren landscapes.
+Curse of Paranoia: The character becomes paranoid, perceiving hidden threats everywhere. They have disadvantage on Wisdom (Perception) checks to spot hidden creatures or objects.
+Marked by Inversion: The character is marked by a reality-warping force that inverts their senses. They are permanently under the effects of a 'Blindness' spell.
+Eldritch Infestation: The character becomes infested with eldritch parasites, causing their skin to crawl with unsettling visions. They are under the permanent effects of a 'Hallucinatory Terrain' spell.
+Soulbound Confusion: The character's soul is bound to a confusing force, leading to unpredictable behavior. They must roll a d20 at the start of each turn. On a 1-5, they act as if under the effects of the 'Confusion' spell.
+Curse of Silence: The character is cursed with silence, rendering them permanently unable to speak or produce vocal sounds.
+Marked by Desperation: The character is marked by an aura of desperation. They permanently suffer disadvantage on Wisdom (Survival) checks and are compelled to take unnecessary risks.
+Eldritch Weakness: The character becomes physically weak. They permanently have disadvantage on Strength saving throws and ability checks.
+Soulbound Hesitation: The character's soul is bound to hesitation, imposing disadvantage on all initiative rolls.
+Marked by Ruin: The character is marked by a malevolent force that attracts ruinous events and curses to them. Any structures they enter have a chance of collapsing.
+Eldritch Seizures: The character suffers from eldritch seizures, which render them unconscious for 1d4 rounds at random intervals during combat.
+Soulbound Erosion: The character's soul is slowly eroded, causing them to permanently lose 1 point of Wisdom, Intelligence, and Charisma.
+Curse of Echoes: The character's actions and words are echoed as if from another dimension, causing all creatures to perceive them as unsettling and eerie. They have disadvantage on all Charisma checks when interacting with others.

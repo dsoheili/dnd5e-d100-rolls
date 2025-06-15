@@ -1,0 +1,100 @@
+Potion of Poison Shielding - <https://www.dndbeyond.com/magic-items/9472946-potion-of-poison-shielding>
+Potion of Silvered Tongue - <https://www.dndbeyond.com/magic-items/9472981-potion-of-silvered-tongue>
+Potion of Shadow Tendrils - <https://www.dndbeyond.com/magic-items/9473001-potion-of-shadow-tendrils>
+Potion of Misty Steps - <https://www.dndbeyond.com/magic-items/9473013-potion-of-misty-steps>
+Potion of Cosmic Insight - <https://www.dndbeyond.com/magic-items/9473031-potion-of-cosmic-insight>
+Potion of Shifting Alignments - <https://www.dndbeyond.com/magic-items/9473041-potion-of-shifting-alignments>
+Potion of Quicksilver Defense - <https://www.dndbeyond.com/magic-items/9473053-potion-of-quicksilver-defense>
+Potion of Radiant Blessing - <https://www.dndbeyond.com/magic-items/9473058-potion-of-radiant-blessing>
+Potion of Sunlight Radiance - <https://www.dndbeyond.com/magic-items/9473074-potion-of-sunlight-radiance>
+Potion of Minty Levitation - <https://www.dndbeyond.com/magic-items/9473081-potion-of-minty-levitation>
+Potion of Plant Speech - <https://www.dndbeyond.com/magic-items/9473103-potion-of-plant-speech>
+Potion of Shadow's Embrace - <https://www.dndbeyond.com/magic-items/9473115-potion-of-shadows-embrace>
+Potion of Barkskin - <https://www.dndbeyond.com/magic-items/9473122-potion-of-barkskin>
+Potion of Darkvision - <https://www.dndbeyond.com/magic-items/9473144-potion-of-darkvision>
+Potion of Buoyancy - <https://www.dndbeyond.com/magic-items/9473166-potion-of-buoyancy>
+Potion of Heartfelt Charm - <https://www.dndbeyond.com/magic-items/9473234-potion-of-heartfelt-charm>
+Potion of Sweet Fortune - <https://www.dndbeyond.com/magic-items/9473244-potion-of-sweet-fortune>
+Potion of Bardic Inspiration - <https://www.dndbeyond.com/magic-items/9473251-potion-of-bardic-inspiration>
+Potion of Aquatic Breathing - <https://www.dndbeyond.com/magic-items/9473267-potion-of-aquatic-breathing>
+Potion of Arcane Fortitude - <https://www.dndbeyond.com/magic-items/9473288-potion-of-arcane-fortitude>
+Potion of Disease Immunity - <https://www.dndbeyond.com/magic-items/9473308-potion-of-disease-immunity>
+Potion of Irresistible Charm - <https://www.dndbeyond.com/magic-items/9473325-potion-of-irresistible-charm>
+Potion of Breathlessness - <https://www.dndbeyond.com/magic-items/9473332-potion-of-breathlessness>
+Potion of Truesight - <https://www.dndbeyond.com/magic-items/9473377-potion-of-truesight>
+Potion of Lavender Recovery - <https://www.dndbeyond.com/magic-items/9474057-potion-of-lavender-recovery>
+Potion of Unyielding Stance - <https://www.dndbeyond.com/magic-items/9474080-potion-of-unyielding-stance>
+Potion of Poison Immunity - <https://www.dndbeyond.com/magic-items/9474106-potion-of-poison-immunity>
+Potion of Restorative Loss - <https://www.dndbeyond.com/magic-items/9474126-potion-of-restorative-loss>
+Potion of Spell Evasion - <https://www.dndbeyond.com/magic-items/9474160-potion-of-spell-evasion>
+Potion of Fog Cloud - <https://www.dndbeyond.com/magic-items/9474172-potion-of-fog-cloud>
+Potion of Cold Immunity - <https://www.dndbeyond.com/magic-items/9474186-potion-of-cold-immunity>
+Potion of Second Chances - <https://www.dndbeyond.com/magic-items/9474203-potion-of-second-chances>
+Potion of Tongues - <https://www.dndbeyond.com/magic-items/9474215-potion-of-tongues>
+Potion of Restraining Strikes - <https://www.dndbeyond.com/magic-items/9474222-potion-of-restraining-strikes>
+Potion of Clear Perception - <https://www.dndbeyond.com/magic-items/9474240-potion-of-clear-perception>
+Potion of Prestidigitation - <https://www.dndbeyond.com/magic-items/9474257-potion-of-prestidigitation>
+Potion of Jeweler's Insight - <https://www.dndbeyond.com/magic-items/9474273-potion-of-jewelers-insight>
+Potion of Fire Infusion - <https://www.dndbeyond.com/magic-items/9474291-potion-of-fire-infusion>
+Potion of Tree Stride - <https://www.dndbeyond.com/magic-items/9474296-potion-of-tree-stride>
+Potion of Draconic Breath - <https://www.dndbeyond.com/magic-items/9474308-potion-of-draconic-breath>
+Potion of Condition Immunity - <https://www.dndbeyond.com/magic-items/9474313-potion-of-condition-immunity>
+Potion of Bursting Dancing Lights - <https://www.dndbeyond.com/magic-items/9474323-potion-of-bursting-dancing-lights>
+Potion of Alertness - <https://www.dndbeyond.com/magic-items/9474350-potion-of-alertness>
+Potion of Temporal Defense - <https://www.dndbeyond.com/magic-items/9474371-potion-of-temporal-defense>
+Potion of Spiderclimb - <https://www.dndbeyond.com/magic-items/9474378-potion-of-spiderclimb>
+Potion of Peaceful Influence - <https://www.dndbeyond.com/magic-items/9474391-potion-of-peaceful-influence>
+Potion of Greedy Protection - <https://www.dndbeyond.com/magic-items/9474405-potion-of-greedy-protection>
+Potion of Rune-Infused Protection - <https://www.dndbeyond.com/magic-items/9474429-potion-of-rune-infused-protection>
+Potion of Feykind Charisma - <https://www.dndbeyond.com/magic-items/9474454-potion-of-feykind-charisma>
+Potion of Flight - <https://www.dndbeyond.com/magic-items/9474465-potion-of-flight>
+Potion of Ice Barrier - <https://www.dndbeyond.com/magic-items/9474478-potion-of-ice-barrier>
+Potion of Intense Moonbeam - <https://www.dndbeyond.com/magic-items/9474523-potion-of-intense-moonbeam>
+Potion of Fey and Flora Lore - <https://www.dndbeyond.com/magic-items/9474537-potion-of-fey-and-flora-lore>
+Potion of Flame Dragon - <https://www.dndbeyond.com/magic-items/9474555-potion-of-flame-dragon>
+Potion of Chromatic Protection - <https://www.dndbeyond.com/magic-items/9474593-potion-of-chromatic-protection>
+Potion of Sobriety - <https://www.dndbeyond.com/magic-items/9474605-potion-of-sobriety>
+Potion of Renewed Vitality - <https://www.dndbeyond.com/magic-items/9474607-potion-of-renewed-vitality>
+Potion of Burrowing - <https://www.dndbeyond.com/magic-items/9474629-potion-of-burrowing>
+Potion of Avian Speech - <https://www.dndbeyond.com/magic-items/9474641-potion-of-avian-speech>
+Potion of Spider Swarm - <https://www.dndbeyond.com/magic-items/9474649-potion-of-spider-swarm>
+Potion of Blink - <https://www.dndbeyond.com/magic-items/9474670-potion-of-blink>
+Potion of Short-Range Teleportation - <https://www.dndbeyond.com/magic-items/9474675-potion-of-short-range-teleportation>
+Potion of Mushrooms - <https://www.dndbeyond.com/magic-items/9474687-potion-of-mushrooms>
+Potion of Entangling Vines - <https://www.dndbeyond.com/magic-items/9474697-potion-of-entangling-vines>
+Potion of Nimble Fingers - <https://www.dndbeyond.com/magic-items/9474709-potion-of-nimble-fingers>
+Potion of the Bowmaster - <https://www.dndbeyond.com/magic-items/9474714-potion-of-the-bowmaster>
+Potion of Snowform - <https://www.dndbeyond.com/magic-items/9474719-potion-of-snowform>
+Potion of Swarmform - <https://www.dndbeyond.com/magic-items/9474732-potion-of-swarmform>
+Potion of the Four-Leaf Clover - <https://www.dndbeyond.com/magic-items/9474750-potion-of-the-four-leaf-clover>
+Potion of Seafoam Shape - <https://www.dndbeyond.com/magic-items/9475062-potion-of-seafoam-shape>
+Potion of Keen Hearing - <https://www.dndbeyond.com/magic-items/9476315-potion-of-keen-hearing>
+Potion of Flaming Fists - <https://www.dndbeyond.com/magic-items/9476324-potion-of-flaming-fists>
+Potion of Candlelight - <https://www.dndbeyond.com/magic-items/9476333-potion-of-candlelight>
+Potion of Forestwalking - <https://www.dndbeyond.com/magic-items/9476346-potion-of-forestwalking>
+Potion of Phoenix Rebirth - <https://www.dndbeyond.com/magic-items/9476353-potion-of-phoenix-rebirth>
+Potion of Scrying - <https://www.dndbeyond.com/magic-items/9476356-potion-of-scrying>
+Potion of Puddleform - <https://www.dndbeyond.com/magic-items/9476360-potion-of-puddleform>
+Potion of Raven Familiar - <https://www.dndbeyond.com/magic-items/9476361-potion-of-raven-familiar>
+Potion of Contagion - <https://www.dndbeyond.com/magic-items/9476378-potion-of-contagion>
+Potion of Terrainsight - <https://www.dndbeyond.com/magic-items/9476404-potion-of-terrainsight>
+Potion of Sylvan Mislead - <https://www.dndbeyond.com/magic-items/9476409-potion-of-sylvan-mislead>
+Potion of Sweet Relief - <https://www.dndbeyond.com/magic-items/9476416-potion-of-sweet-relief>
+Potion of Flame Tendrils - <https://www.dndbeyond.com/magic-items/9476427-potion-of-flame-tendrils>
+Potion of Divine Power - <https://www.dndbeyond.com/magic-items/9476431-potion-of-divine-power>
+Potion of Lightning Arc - <https://www.dndbeyond.com/magic-items/9476441-potion-of-lightning-arc>
+Potion of Cat's Agility - <https://www.dndbeyond.com/magic-items/9476459-potion-of-cats-agility>
+Potion of Arcane Eye - <https://www.dndbeyond.com/magic-items/9476465-potion-of-arcane-eye>
+Potion of Firefish - <https://www.dndbeyond.com/magic-items/9476470-potion-of-firefish>
+Potion of Heroes' Feast - <https://www.dndbeyond.com/magic-items/9476472-potion-of-heroes-feast>
+Potion of Pack Tactics - <https://www.dndbeyond.com/magic-items/9476475-potion-of-pack-tactics>
+Potion of Spell Slot Restoration - <https://www.dndbeyond.com/magic-items/9476489-potion-of-spell-slot-restoration>
+Potion of Greater Restoration - <https://www.dndbeyond.com/magic-items/9476498-potion-of-greater-restoration>
+Potion of Radiant Infusion - <https://www.dndbeyond.com/magic-items/9476506-potion-of-radiant-infusion>
+Potion of Steady Sailor - <https://www.dndbeyond.com/magic-items/9476520-potion-of-steady-sailor>
+Potion of Poison Resistance and Detection - <https://www.dndbeyond.com/magic-items/9476526-potion-of-poison-resistance-and-detection>
+Potion of Aid - <https://www.dndbeyond.com/magic-items/9476533-potion-of-aid>
+Potion of Limit Breaking - <https://www.dndbeyond.com/magic-items/9476538-potion-of-limit-breaking>
+Potion of Fiendish Tongues - <https://www.dndbeyond.com/magic-items/9476546-potion-of-fiendish-tongues>
+Potion of Critical Manipulation - <https://www.dndbeyond.com/magic-items/9476552-potion-of-critical-manipulation>
+Potion of Borrowed Power - <https://www.dndbeyond.com/magic-items/9476559-potion-of-borrowed-power>

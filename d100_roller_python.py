@@ -10,12 +10,12 @@ import random
 import os
 import json
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 import re
 import datetime
 
 class TableManager:
-    """Handles loading and managing table files"""
+    """Handles loading and managing table files with dynamic category detection"""
     
     def __init__(self, tables_dir: str = "tables"):
         self.tables_dir = Path(tables_dir)
@@ -35,19 +35,62 @@ class TableManager:
                 self.config = {}
         else:
             self.config = {}
+    
+    def format_category_name(self, directory_name: str) -> str:
+        """Convert directory name to proper category display name"""
+        # Check if we have a mapping in config
+        if 'categories' in self.config and directory_name in self.config['categories']:
+            return self.config['categories'][directory_name]
         
-        # Default category mappings
-        self.default_categories = {
-            'items': 'Items & Equipment',
-            'locations': 'Locations',
-            'encounters': 'Encounters',
-            'effects': 'Effects & Magic',
-            'names': 'Names & Titles',
-            'crafting': 'Crafting & Materials',
-            'events': 'Events & Plot Hooks',
-            'quests': 'Quests & Rumors',
-            'experiences': 'Experiences'
+        # Otherwise, format the directory name nicely
+        # Replace underscores with spaces and title case
+        formatted = directory_name.replace('_', ' ').title()
+        
+        # Handle special cases for better formatting
+        replacements = {
+            'Npcs': 'NPCs',
+            'Ai': 'AI', 
+            'Ui': 'UI',
+            'Dnd': 'D&D',
+            'Phb': 'PHB',
+            'Gp': 'GP',
+            'Dms': 'DMs',
+            'Pc': 'PC',
+            'Npc': 'NPC'
         }
+        
+        for old, new in replacements.items():
+            formatted = formatted.replace(old, new)
+        
+        return formatted
+    
+    def format_table_name(self, filename: str) -> str:
+        """Format filename into a proper table name"""
+        # Replace underscores with spaces and title case
+        formatted = filename.replace('_', ' ').title()
+        
+        # Handle special abbreviations and common gaming terms
+        replacements = {
+            'Phb': 'PHB',
+            'Gp': 'GP', 
+            'Npcs': 'NPCs',
+            'Npc': 'NPC',
+            'Dnd': 'D&D',
+            'Dms': 'DMs',
+            'Dm': 'DM',
+            'Pc': 'PC',
+            'Hp': 'HP',
+            'Ac': 'AC',
+            'Xp': 'XP'
+        }
+        
+        for old, new in replacements.items():
+            # Use word boundaries to avoid partial replacements
+            import re
+            pattern = r'\b' + re.escape(old) + r'\b'
+            formatted = re.sub(pattern, new, formatted, flags=re.IGNORECASE)
+        
+        return formatted
     
     def scan_tables(self):
         """Scan the tables directory for .txt files and organize by category"""
@@ -59,17 +102,21 @@ class TableManager:
         
         # Scan for table files
         for file_path in self.tables_dir.rglob("*.txt"):
+            # Skip report and config files
+            if file_path.name in ["reorganization_report.txt", "readme.txt"]:
+                continue
+                
             relative_path = file_path.relative_to(self.tables_dir)
             
             # Determine category from folder structure
             if len(relative_path.parts) > 1:
                 category_folder = relative_path.parts[0]
-                category = self.default_categories.get(category_folder, category_folder.title())
+                category = self.format_category_name(category_folder)
             else:
                 category = "Uncategorized"
             
             # Get table name from filename
-            table_name = file_path.stem.replace('_', ' ').title()
+            table_name = self.format_table_name(file_path.stem)
             
             # Load table contents
             try:
@@ -104,11 +151,11 @@ class TableManager:
         return self.tables.get(category, {}).get(table_name)
     
     def create_sample_tables(self):
-        """Create sample table files for demonstration"""
+        """Create sample table files for demonstration in new structure"""
         sample_tables = {
-            "items/weapons.txt": [
+            "weapons_armor/basic_weapons.txt": [
                 "Rusty Dagger",
-                "Iron Sword",
+                "Iron Sword", 
                 "Silver Blade",
                 "Enchanted Bow",
                 "Battle Axe",
@@ -118,9 +165,9 @@ class TableManager:
                 "Mace",
                 "Scimitar"
             ],
-            "encounters/forest.txt": [
+            "encounters/forest_encounters.txt": [
                 "Wolves (1d4)",
-                "Bandits (1d6)",
+                "Bandits (1d6)", 
                 "Mysterious Traveler",
                 "Ancient Tree",
                 "Hidden Cave",
@@ -133,7 +180,7 @@ class TableManager:
             "names/tavern_names.txt": [
                 "The Prancing Pony",
                 "The Dragon's Rest",
-                "The Singing Sword",
+                "The Singing Sword", 
                 "The Golden Goblet",
                 "The Weary Traveler",
                 "The Drunken Dragon",
@@ -151,6 +198,34 @@ class TableManager:
             if not file_path.exists():
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write('\n'.join(contents))
+    
+    def get_table_stats(self) -> Dict[str, int]:
+        """Get statistics about loaded tables"""
+        stats = {
+            'total_categories': len(self.tables),
+            'total_tables': sum(len(tables) for tables in self.tables.values()),
+            'total_entries': sum(len(table) for category in self.tables.values() 
+                               for table in category.values())
+        }
+        return stats
+    
+    def search_tables(self, search_term: str) -> List[Tuple[str, str, List[str]]]:
+        """Search for tables containing the search term"""
+        results = []
+        search_term = search_term.lower()
+        
+        for category, tables in self.tables.items():
+            for table_name, table_contents in tables.items():
+                if search_term in table_name.lower():
+                    results.append((category, table_name, table_contents))
+                else:
+                    # Search within table contents
+                    matching_entries = [entry for entry in table_contents 
+                                      if search_term in entry.lower()]
+                    if matching_entries:
+                        results.append((category, table_name, matching_entries))
+        
+        return results
 
 
 class D100RollerApp:
@@ -373,7 +448,7 @@ class D100RollerApp:
         ttk.Radiobutton(multiple_frame, text="Multiple:", variable=self.roll_mode, 
                        value="multiple", command=self.on_mode_change).pack(side=tk.LEFT)
         
-        self.num_rolls_var = tk.StringVar(value="2")
+        self.num_rolls_var = tk.StringVar(value="10")
         self.rolls_entry = ttk.Entry(multiple_frame, textvariable=self.num_rolls_var,
                                    width=5)
         self.rolls_entry.pack(side=tk.LEFT, padx=(5, 0))

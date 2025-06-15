@@ -1,0 +1,100 @@
+Temporal Grace: Once per long rest, the character can tap into temporal grace, granting them advantage on a single saving throw.
+Initiative Prowess: The character gains a +1 bonus to their initiative rolls, allowing them to react slightly faster in combat.
+Youthful Vitality: The character's body experiences reduced aging effects, appearing more youthful for their age. They suffer fewer penalties from aging.
+Radiant Infusion: Once per long rest, the character can infuse their attacks with celestial energy, dealing an extra 1d4 radiant damage on weapon attacks for 1 minute.
+Arcane Resonance: Once per long rest, the character can infuse their spells with celestial energy, allowing them to roll an additional damage die for one spell that deals damage.
+Stalwart Vigor: The character's hit point maximum increases by 1d4, representing their improved vitality.
+Divine Shelter: Once per long rest, when the character takes damage from an attack, they can roll a d6 and reduce the damage taken by the number rolled + half their Charisma modifier (rounded down).
+Celestial Nurturing: Once per long rest, the character can heal themselves or an ally within 30 feet for 2d6 hit points + their Wisdom modifier.
+Radiant Resilience: The character gains resistance to radiant damage, reflecting their connection to celestial forces.
+Heavenly Aura: Once per long rest, the character can project a radiant aura, causing all enemies within 20 feet to make a Wisdom saving throw (DC 13). On a failed save, the enemies are frightened for 1 minute, as they are briefly overwhelmed by celestial power.
+Soothing Radiance: Once per long rest, the character can emanate a comforting aura, restoring 1d6 hit points to themselves and any allies within 20 feet.
+Divine Inspiration: Once per long rest, the character gains inspiration, allowing them to roll an additional d4 and add the result to any ability check, attack roll, or saving throw.
+Ethereal Glimpse: Once per long rest, the character can briefly glimpse the Ethereal Plane for up to 1 minute, gaining a partial incorporeal state and resistance to non-magical damage.
+Divine Shield: The character gains advantage on saving throws against spells and effects that would cause them to become charmed or frightened.
+Celestial Insight: Once per long rest, the character can seek limited guidance from celestial beings. They can ask a single yes-or-no question about a current or upcoming situation, and the DM will provide a cryptic answer.
+Blessed Guard: The character gains a +1 bonus to their AC, reflecting a mild divine protection.
+Aura of Calm: Once per long rest, the character can project a calming aura, granting advantage on Charisma (Persuasion) checks for 1 minute.
+Wings of Grace: Once per long rest, the character can manifest spectral wings briefly, allowing them to glide for 1 minute at a speed of 30 feet.
+Astral Intervention: Once per long rest, the character can attempt to end a single hostile spell effect affecting them or an ally within 20 feet. They must make a Charisma saving throw (DC 14). On a successful save, the spell effect ends.
+Divine Glare: Once per long rest, the character can summon a radiant burst of light, causing all enemies within 30 feet to make a Wisdom saving throw (DC 14). On a failed save, the enemies are briefly dazzled for 1 round.
+Spectral Insight: The character gains the ability to see into the Ethereal Plane, allowing them to perceive and interact with ethereal creatures.
+Elemental Affinity: The character becomes attuned to an element (fire, water, earth, air) and gains resistance to damage of that type.
+Planar Tongue: The character can speak and understand one additional language of their choice, including celestial or abyssal languages.
+Fortuitous Strikes: Once per long rest, the character can declare one attack to be a 'Fortuitous Strike,' automatically scoring a critical hit.
+Charm Resistance: The character gains advantage on saving throws against spells and effects that would cause them to be charmed.
+Stoneform: The character's skin hardens like stone, granting them resistance to bludgeoning, piercing, and slashing damage.
+Whispering Winds: The character can communicate with the wind, gaining knowledge of the weather and wind patterns in a 10-mile radius.
+Feywild Connection: The character can momentarily open a portal to the Feywild, allowing them to cast Misty Step once per long rest without expending a spell slot.
+Temporal Awareness: The character gains a heightened sense of time, allowing them to accurately estimate the time of day and track time without needing a timekeeping device.
+Eagle-Eyed: The character gains advantage on Wisdom (Perception) checks that rely on sight.
+Blessing of the Moon: The character becomes attuned to moonlight, granting them darkvision out to 60 feet and advantage on saving throws against lycanthropy.
+Astral Projection: Once per long rest, the character can briefly project their consciousness to another location within 100 feet, allowing them to see and hear from that point.
+Infernal Resilience: The character gains resistance to fire damage and immunity to being frightened by demons or devils.
+Blighted Resistance: The character gains resistance to necrotic damage and has advantage on saving throws against diseases.
+Pyroclasmic Fury: Once per long rest, the character can channel the fury of a volcanic eruption into their attacks, dealing an extra 1d8 fire damage on weapon attacks for 1 minute.
+Arboreal Fortitude: The character's connection to nature grants them advantage on saving throws against spells and effects that would cause them to be restrained.
+Serpent's Grace: The character gains advantage on Dexterity saving throws and can speak with snakes and serpentine creatures.
+Dreamwalker's Insight: The character can enter the dreams of others once per long rest, allowing them to gain information or attempt to influence the dreamer.
+Blazing Speed: The character's movement speed increases by 10 feet, and they gain advantage on Dexterity (Acrobatics) checks made to avoid obstacles or hazards while moving.
+Primordial Blessing: The character becomes attuned to the elemental planes, gaining resistance to one type of elemental damage (fire, cold, lightning, acid) of their choice.
+Feywild Affinity: The character's connection to the Feywild grants them proficiency in the Performance skill and the ability to charm small woodland creatures.
+Gaze of the Oracle: The character can see glimpses of the future, gaining advantage on Initiative rolls.
+Spiritual Resonance: The character can speak with spirits and incorporeal beings, allowing them to communicate with ghosts and other ethereal entities.
+Celestial Intervention: Once per long rest, the character can call upon celestial beings for assistance, granting them advantage on a single saving throw.
+Shadow Walker: The character can blend with shadows, gaining advantage on Stealth checks in dim light or darkness.
+Flameborn: The character becomes attuned to flames, gaining resistance to fire damage and the ability to control small flames with their mind.
+Psionic Prowess: The character gains proficiency in the Psionics skill, allowing them to resist psychic influences and detect psionic activity.
+Sylvan Senses: The character becomes attuned to the natural world, gaining advantage on Wisdom (Survival) checks and the ability to identify plants and animals.
+Elemental Harmony: The character can choose an element (fire, water, earth, air) and gain resistance to damage of that type.
+Mystical Connection: The character can communicate telepathically with one person at a time and has advantage on saving throws against enchantment spells.
+Blessing of Valor: Once per long rest, the character can gain temporary hit points equal to their level when entering combat.
+Aetherial Form: The character can briefly phase into the Ethereal Plane once per long rest, gaining incorporeal traits and the ability to pass through solid objects.
+Moonlit Path: The character can navigate by moonlight, gaining advantage on Wisdom (Survival) checks at night and while under a moonlit sky.
+Infernal Tenacity: The character gains resistance to fire damage and has advantage on saving throws against spells cast by demons or devils.
+Eagle's Eyes: The character gains sharp vision, allowing them to read fine print and gain advantage on Wisdom (Perception) checks that rely on sight.
+Blighted Blessing: The character gains resistance to necrotic damage and the ability to purify food and water with a touch.
+Cryomancer's Touch: The character can cast Frostbite cantrip at will, chilling their foes with a touch.
+Stormborn: The character becomes attuned to lightning and thunder, gaining resistance to lightning damage and the ability to emit a harmless lightning spark at will.
+Stoneheart: The character gains resistance to poison damage and the ability to hold their breath for twice as long as normal.
+Empathic Connection: The character can sense the emotions of those around them, granting advantage on Charisma (Persuasion) checks.
+Dreamer's Insight: The character has vivid dreams that sometimes reveal hints about future events, granting advantage on one Intelligence (Investigation) check per long rest.
+Ethereal Resonance: The character can sense the presence of ethereal creatures and objects, making them aware of nearby ghosts or magical items hidden in the Ethereal Plane.
+Champion's Aura: The character's presence inspires allies, granting them a +1 bonus to attack rolls when within 10 feet of the character.
+Blessing of Purity: The character gains resistance to poison damage and has advantage on saving throws against poison effects.
+Acrobatic Grace: The character gains proficiency in the Acrobatics skill and can perform impressive acrobatic feats with ease.
+Song of the Spheres: Once per long rest, the character can use their voice to produce a soothing melody, granting advantage on Wisdom (Persuasion) checks for 1 minute.
+Ancestral Wisdom: The character's connection to their ancestors allows them to call upon their guidance once per long rest, granting advantage on a single Intelligence or Wisdom-based skill check.
+Cunning Linguist: The character can quickly pick up new languages, gaining proficiency in a new language of their choice every time they encounter a new culture or race.
+Waterborne Resilience: The character gains proficiency in swimming and can hold their breath for an extended duration, making them a natural swimmer.
+Vengeful Wrath: Once per long rest, the character can channel their anger into a single attack, dealing an extra 1d6 damage of a type they choose (fire, cold, lightning, acid) on a successful hit.
+Eldritch Insight: The character can sense magical auras, granting advantage on Arcana checks and the ability to detect the presence of nearby magical items or creatures.
+Bane of Shadows: The character can cast the Light cantrip at will and has advantage on saving throws against being blinded or frightened by creatures of shadow.
+Wildling's Blessing: The character gains proficiency in the Survival skill and has advantage on Wisdom (Survival) checks related to tracking or foraging.
+Cryomancer's Touch: The character can cast the Frostbite cantrip at will, chilling their foes with a touch.
+Stormshaper: The character becomes attuned to storms, gaining resistance to lightning and thunder damage and the ability to cast Shocking Grasp cantrip at will.
+Stoneheart: The character gains resistance to poison damage and the ability to purify food and water with a touch.
+Cursed Insight: The character gains the ability to detect lies with exceptional accuracy, granting advantage on Insight checks. However, this constant awareness makes it difficult for them to be surprised, imposing disadvantage on initiative rolls.
+Planar Connection: The character can communicate with creatures from other planes of existence, potentially forming alliances with extraplanar beings.
+Eagle's Eyes: The character gains sharp vision, allowing them to read fine print and gain advantage on Wisdom (Perception) checks that rely on sight.
+Divine Resonance: Once per long rest, the character can call upon divine energy to heal themselves or an ally for 1d6 hit points per character level.
+Arcane Infusion: The character can infuse mundane objects with magical energy, allowing them to cast the Light cantrip on items they touch.
+Mystic Insight: The character gains proficiency in the Arcana skill and can recall obscure magical knowledge effortlessly.
+Serpent's Grace: The character gains advantage on Dexterity saving throws and can speak with snakes and serpentine creatures.
+Blessing of Vitality: Once per long rest, the character can gain temporary hit points equal to their level when entering combat.
+Astral Projection: The character can briefly project their consciousness to another location within 100 feet, allowing them to see and hear from that point.
+Infernal Tenacity: The character gains resistance to fire damage and immunity to being frightened by demons or devils.
+Eagle-Eyed: The character gains sharp vision, allowing them to read fine print and gain advantage on Wisdom (Perception) checks that rely on sight.
+Elemental Resonance: The character can choose an element (fire, water, earth, air) and gain resistance to damage of that type.
+Celestial Charm: The character can cast the Friends cantrip at will and has advantage on Charisma checks when interacting with celestial beings.
+Dreamweaver's Insight: The character can enter the dreams of others once per long rest, allowing them to gain information or attempt to influence the dreamer.
+Eldritch Sight: The character can see magical auras, gaining advantage on Arcana checks and the ability to detect the presence of nearby magical items or creatures.
+Bane of Shadows: The character can cast the Light cantrip at will and has advantage on saving throws against being blinded or frightened by creatures of shadow.
+Wildling's Blessing: The character gains proficiency in the Survival skill and has advantage on Wisdom (Survival) checks related to tracking or foraging.
+Cryomancer's Touch: The character can cast the Frostbite cantrip at will, chilling their foes with a touch.
+Stormshaper: The character becomes attuned to storms, gaining resistance to lightning and thunder damage and the ability to cast the Shocking Grasp cantrip at will.
+Stoneheart: The character gains resistance to poison damage and the ability to purify food and water with a touch.
+Cursed Insight: The character gains the ability to detect lies with exceptional accuracy, granting advantage on Insight checks. However, this constant awareness makes it difficult for them to be surprised, imposing disadvantage on initiative rolls.
+Planar Connection: The character can communicate with creatures from other planes of existence, potentially forming alliances with extraplanar beings.
+Eagle's Eyes: The character gains sharp vision, allowing them to read fine print and gain advantage on Wisdom (Perception) checks that rely on sight.
+Divine Resonance: Once per long rest, the character can call upon divine energy to heal themselves or an ally for 1d6 hit points per character level.

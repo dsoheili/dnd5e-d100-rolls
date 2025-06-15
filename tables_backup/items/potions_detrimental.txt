@@ -1,0 +1,100 @@
+Potion of Lycanthropy	<https://www.dndbeyond.com/magic-items/9476701-potion-of-lycanthropy>
+Poison of Petals	<https://www.dndbeyond.com/magic-items/9476735-poison-of-petals>
+Poison of Sweet Madness	<https://www.dndbeyond.com/magic-items/9476741-poison-of-sweet-madness>
+Poison of Dying Thoughts	<https://www.dndbeyond.com/magic-items/9476744-poison-of-dying-thoughts>
+Potion of Slashing Vulnerability	<https://www.dndbeyond.com/magic-items/9476750-potion-of-slashing-vulnerability>
+Potion of Starvation	<https://www.dndbeyond.com/magic-items/9476757-potion-of-starvation>
+Poison of the Ice Serpent	<https://www.dndbeyond.com/magic-items/9476759-poison-of-the-ice-serpent>
+Poison of Unheard Screams	<https://www.dndbeyond.com/magic-items/9476771-poison-of-unheard-screams>
+Potion of Sore Throat	<https://www.dndbeyond.com/magic-items/9476774-potion-of-sore-throat>
+Poison of Burning Wounds	<https://www.dndbeyond.com/magic-items/9476783-poison-of-burning-wounds>
+Potion of the Sealed Mouth	<https://www.dndbeyond.com/magic-items/9476798-potion-of-the-sealed-mouth>
+Poison of Blinding Flames	<https://www.dndbeyond.com/magic-items/9476807-poison-of-blinding-flames>
+Potion of Necrotic Vulnerability	<https://www.dndbeyond.com/magic-items/9476823-potion-of-necrotic-vulnerability>
+Poison of Saltwater Weakness	<https://www.dndbeyond.com/magic-items/9476826-poison-of-saltwater-weakness>
+Poison of Suffocation	<https://www.dndbeyond.com/magic-items/9476828-poison-of-suffocation>
+Potion of Banishment	<https://www.dndbeyond.com/magic-items/9476831-potion-of-banishment>
+Poison of Paralytic Death	<https://www.dndbeyond.com/magic-items/9476835-poison-of-paralytic-death>
+Poison of Violet Corrosion	<https://www.dndbeyond.com/magic-items/9476848-poison-of-violet-corrosion>
+Poison of Petrification	<https://www.dndbeyond.com/magic-items/9476877-poison-of-petrification>
+Poison of Conjured Needles	<https://www.dndbeyond.com/magic-items/9476887-poison-of-conjured-needles>
+Potion of Lightning Vulnerability	<https://www.dndbeyond.com/magic-items/9476894-potion-of-lightning-vulnerability>
+Potion of Sweaty Palms	<https://www.dndbeyond.com/magic-items/9476928-potion-of-sweaty-palms>
+Poison of Thorned Vines	<https://www.dndbeyond.com/magic-items/9476932-poison-of-thorned-vines>
+Poison of Gutfire	<https://www.dndbeyond.com/magic-items/9476941-poison-of-gutfire>
+Poison of Frightening Faces	<https://www.dndbeyond.com/magic-items/9476947-poison-of-frightening-faces>
+Poison of Lethal Lemons	<https://www.dndbeyond.com/magic-items/9476951-poison-of-lethal-lemons>
+Potion of Cold Vulnerability	<https://www.dndbeyond.com/magic-items/9477151-potion-of-cold-vulnerability>
+Potion of Amber Entrapment	<https://www.dndbeyond.com/magic-items/9477156-potion-of-amber-entrapment>
+Potion of Crushing Attraction	<https://www.dndbeyond.com/magic-items/9477162-potion-of-crushing-attraction>
+Poison of Decaying Flesh	<https://www.dndbeyond.com/magic-items/9477171-poison-of-decaying-flesh>
+Poison of Crimson Ooze	<https://www.dndbeyond.com/magic-items/9477183-poison-of-crimson-ooze>
+Potion of Darkvision Loss	<https://www.dndbeyond.com/magic-items/9477193-potion-of-darkvision-loss>
+Potion of Prismatic Explosion	<https://www.dndbeyond.com/magic-items/9477195-potion-of-prismatic-explosion>
+Poison of Misfortune	<https://www.dndbeyond.com/magic-items/9477329-poison-of-misfortune>
+Potion of the Repulsive Skeleton	<https://www.dndbeyond.com/magic-items/9477334-potion-of-the-repulsive-skeleton>
+Poison of the Waterbound	<https://www.dndbeyond.com/magic-items/9477341-poison-of-the-waterbound>
+Poison of Internal Bleeding	<https://www.dndbeyond.com/magic-items/9477346-poison-of-internal-bleeding>
+Poison of Regrets	<https://www.dndbeyond.com/magic-items/9477349-poison-of-regrets>
+Poison of Scarlet Shock	<https://www.dndbeyond.com/magic-items/9477352-poison-of-scarlet-shock>
+Poison of Severe Exhaustion	<https://www.dndbeyond.com/magic-items/9477360-poison-of-severe-exhaustion>
+Potion of Prolonged Cold Vulnerability	<https://www.dndbeyond.com/magic-items/9477369-potion-of-prolonged-cold-vulnerability>
+Potion of Clouded Vision	<https://www.dndbeyond.com/magic-items/9477382-potion-of-clouded-vision>
+Potion of Storm Vulnerability	<https://www.dndbeyond.com/magic-items/9477386-potion-of-storm-vulnerability>
+Potion of Obscured Sight	<https://www.dndbeyond.com/magic-items/9477391-potion-of-obscured-sight>
+Poison of Inky Tentacles	<https://www.dndbeyond.com/magic-items/9477396-poison-of-inky-tentacles>
+Potion of the Struggling Swimmer	<https://www.dndbeyond.com/magic-items/9477399-potion-of-the-struggling-swimmer>
+Poison of Eternal Rest	<https://www.dndbeyond.com/magic-items/9477403-poison-of-eternal-rest>
+Potion of Costly Divination	<https://www.dndbeyond.com/magic-items/9478138-potion-of-costly-divination>
+Potion of Speechlessness	<https://www.dndbeyond.com/magic-items/9478146-potion-of-speechlessness>
+Potion of Tentacle Transformation	<https://www.dndbeyond.com/magic-items/9478154-potion-of-tentacle-transformation>
+Potion of Gold Phobia	<https://www.dndbeyond.com/magic-items/9478157-potion-of-gold-phobia>
+Poison of the Phantasmal Dragon	<https://www.dndbeyond.com/magic-items/9478165-poison-of-the-phantasmal-dragon>
+Potion of Faerie Glow	<https://www.dndbeyond.com/magic-items/9478177-potion-of-faerie-glow>
+Potion of False Darkness	<https://www.dndbeyond.com/magic-items/9478190-potion-of-false-darkness>
+Potion of Stinking Cloud	<https://www.dndbeyond.com/magic-items/9478197-potion-of-stinking-cloud>
+Potion of Coinblindness	<https://www.dndbeyond.com/magic-items/9478361-potion-of-coinblindness>
+Potion of Healing (Expired)	<https://www.dndbeyond.com/magic-items/9478364-potion-of-healing-expired>
+Potion of Feeblemind	<https://www.dndbeyond.com/magic-items/9478459-potion-of-feeblemind>
+Poison of Imprisonment	<https://www.dndbeyond.com/magic-items/9478500-poison-of-imprisonment>
+Poison of Chicken Terror	<https://www.dndbeyond.com/magic-items/9478533-poison-of-chicken-terror>
+Potion of Piercing Vulnerability	<https://www.dndbeyond.com/magic-items/9478545-potion-of-piercing-vulnerability>
+Poison of Frozen Death	<https://www.dndbeyond.com/magic-items/9478552-poison-of-frozen-death>
+Poison of Domination	<https://www.dndbeyond.com/magic-items/9478562-poison-of-domination>
+Poison of the Emerald Spider	<https://www.dndbeyond.com/magic-items/9478568-poison-of-the-emerald-spider>
+Potion of Grease Fountain	<https://www.dndbeyond.com/magic-items/9478595-potion-of-grease-fountain>
+Potion of Painful Underwater Breath	<https://www.dndbeyond.com/magic-items/9478605-potion-of-painful-underwater-breath>
+Potion of Courage and Madness	<https://www.dndbeyond.com/magic-items/9478615-potion-of-courage-and-madness>
+Poison of Purple Death	<https://www.dndbeyond.com/magic-items/9478622-poison-of-purple-death>
+Potion of Earthen Rage	<https://www.dndbeyond.com/magic-items/9478650-potion-of-earthen-rage>
+Potion of the Melting Snowman	<https://www.dndbeyond.com/magic-items/9478666-potion-of-the-melting-snowman>
+Potion of Radiant De-petrification	<https://www.dndbeyond.com/magic-items/9478678-potion-of-radiant-de-petrification>
+Potion of Night Eyes	<https://www.dndbeyond.com/magic-items/9478684-potion-of-night-eyes>
+Potion of Snake Form	<https://www.dndbeyond.com/magic-items/9478694-potion-of-snake-form>
+Potion of Bursting Beans	<https://www.dndbeyond.com/magic-items/9478709-potion-of-bursting-beans>
+Potion of Blackened Cloud	<https://www.dndbeyond.com/magic-items/9478715-potion-of-blackened-cloud>
+Poison of the Fire Scorpion	<https://www.dndbeyond.com/magic-items/9478721-poison-of-the-fire-scorpion>
+Potion of Blurred Aim	<https://www.dndbeyond.com/magic-items/9478736-potion-of-blurred-aim>
+Potion of Corrupted Healing	<https://www.dndbeyond.com/magic-items/9478741-potion-of-corrupted-healing>
+Poison of Doorway Phobia	<https://www.dndbeyond.com/magic-items/9478754-poison-of-doorway-phobia>
+Potion of the Infernal Chamber	<https://www.dndbeyond.com/magic-items/9478760-potion-of-the-infernal-chamber>
+Potion of Unstable Longstrider	<https://www.dndbeyond.com/magic-items/9478768-potion-of-unstable-longstrider>
+Poison of Slowness	<https://www.dndbeyond.com/magic-items/9478774-poison-of-slowness>
+Poison of Blight	<https://www.dndbeyond.com/magic-items/9478777-poison-of-blight>
+Potion of Force Immunization	<https://www.dndbeyond.com/magic-items/9478782-potion-of-force-immunization>
+Poison of the Phantom Tentacles	<https://www.dndbeyond.com/magic-items/9478788-poison-of-the-phantom-tentacles>
+Potion of Drowsy Berries	<https://www.dndbeyond.com/magic-items/9478794-potion-of-drowsy-berries>
+Potion of Lethal Clarity	<https://www.dndbeyond.com/magic-items/9478799-potion-of-lethal-clarity>
+Potion of the Mummy's Curse	<https://www.dndbeyond.com/magic-items/9478811-potion-of-the-mummys-curse>
+Potion of Teleportation Block	<https://www.dndbeyond.com/magic-items/9478817-potion-of-teleportation-block>
+Potion of Shared Pain	<https://www.dndbeyond.com/magic-items/9478826-potion-of-shared-pain>
+Poison of Fire Vulnerability	<https://www.dndbeyond.com/magic-items/9478832-poison-of-fire-vulnerability>
+Potion of Heavy Foresight	<https://www.dndbeyond.com/magic-items/9478846-potion-of-heavy-foresight>
+Potion of the Hydra	<https://www.dndbeyond.com/magic-items/9478854-potion-of-the-hydra>
+Poison of Paralytic Venom	<https://www.dndbeyond.com/magic-items/9478866-poison-of-paralytic-venom>
+Potion of the Jellyfish's Curse	<https://www.dndbeyond.com/magic-items/9478878-potion-of-the-jellyfishs-curse>
+Potion of Sacrificial Knowledge	<https://www.dndbeyond.com/magic-items/9478891-potion-of-sacrificial-knowledge>
+Poison of Reflective Pain	<https://www.dndbeyond.com/magic-items/9478897-poison-of-reflective-pain>
+Potion of Painful Thought Detection	<https://www.dndbeyond.com/magic-items/9478901-potion-of-painful-thought-detection>
+Potion of Rusting	<https://www.dndbeyond.com/magic-items/9478906-potion-of-rusting>
+Poison of Basilisk's Gaze	<https://www.dndbeyond.com/magic-items/9478916-poison-of-basilisks-gaze>
