@@ -1,0 +1,14 @@
+{
+  "categories": {
+    "items": "Items & Equipment",
+    "locations": "Locations",
+    "encounters": "Encounters",
+    "effects": "Effects & Magic",
+    "names": "Names & Titles",
+    "crafting": "Crafting & Materials",
+    "events": "Events & Plot Hooks",
+    "quests": "Quests & Rumors",
+    "experiences": "Experiences"
+  },
+  "version": "1.0"
+}
