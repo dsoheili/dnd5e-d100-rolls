@@ -1,29 +1,14 @@
 {
   "categories": {
-    "encounters": "Encounters & Combat",
     "events": "Events & Plot Hooks",
-    "quests": "Quests & Rumors",
-    "experiences": "Experiences & Phenomena",
-    "weapons_armor": "Weapons & Armor",
-    "treasure": "Treasure & Valuables",
-    "trinkets": "Trinkets & Curiosities",
-    "consumables": "Potions & Consumables",
-    "equipment": "Tools & Equipment",
-    "magic_beneficial": "Beneficial Magic",
-    "magic_detrimental": "Curses & Harmful Magic",
-    "magic_wild": "Wild Magic & Chaos",
-    "crafting_alchemy": "Alchemy & Chemistry",
-    "crafting_mundane": "Mundane Crafting",
-    "natural_resources": "Natural Resources",
-    "locations_civilized": "Civilized Locations",
-    "locations_wilderness": "Wilderness & Dungeons",
-    "locations_contents": "Location Contents",
-    "names": "Names & Titles",
-    "books": "Books & Literature",
-    "maritime": "Maritime & Seafaring",
-    "urban": "Urban & Civilization"
+    "loot": "Treasure & Equipment",
+    "consumables": "Consumables & Ingredients",
+    "magic": "Magic Effects",
+    "locations": "Location Contents",
+    "names": "Character Names"
   },
-  "version": "2.0",
+  "version": "6.0",
   "reorganized": true,
-  "description": "Reorganized table structure for better categorization"
+  "reorganization_date": "2025-01-27",
+  "description": "Manual categorization based on actual table purposes"
 }

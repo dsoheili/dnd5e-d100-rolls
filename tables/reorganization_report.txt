@@ -1,0 +1,74 @@
+D100 Table Reorganization Report - MANUAL CATEGORIZATION
+============================================================
+
+CATEGORIZED BY ACTUAL TABLE PURPOSE:
+
+📁 EVENTS: Events & Plot Hooks
+   • catastrophes_1.txt (100 entries)
+   • nightmares_1.txt (100 entries)
+   • rumors_odd_jobs_1.txt (100 entries)
+
+📁 LOOT: Treasure & Equipment
+   • adventurers_dead_body.txt (100 entries)
+   • dead_goblin.txt (100 entries)
+   • gemstones_10gp.txt (100 entries)
+   • gemstones_50gp.txt (99 entries)
+   • gemstones_100gp.txt (100 entries)
+   • weapons_armor_equipment.txt (100 entries)
+   • trinkets_phb.txt (100 entries)
+   • trinkets_interesting.txt (100 entries)
+   • trinkets_bonus_action.txt (100 entries)
+   • book_titles.txt (100 entries)
+
+📁 CONSUMABLES: Consumables & Ingredients
+   • food.txt (100 entries)
+   • potions_beneficial.txt (100 entries)
+   • potions_detrimental.txt (100 entries)
+   • culinary_herbs_spices.txt (100 entries)
+   • medicinal_herbs.txt (100 entries)
+   • alchemy_ingredients.txt (100 entries)
+   • potion_ingredients.txt (100 entries)
+
+📁 MAGIC: Magic Effects
+   • blessings.txt (100 entries)
+   • blessings_remarkable.txt (100 entries)
+   • curses_minor.txt (100 entries)
+   • curses_major.txt (100 entries)
+   • curses_deadly.txt (100 entries)
+   • curses_fatal.txt (100 entries)
+   • wild_magic_surge.txt (100 entries)
+   • wild_magic_pact.txt (100 entries)
+
+📁 LOCATIONS: Location Contents
+   • forest_1.txt (100 entries)
+   • mountain_1.txt (100 entries)
+   • swamp_1.txt (100 entries)
+   • seafaring.txt (100 entries)
+   • cottage.txt (100 entries)
+   • inns_kitchen.txt (100 entries)
+   • nobles_bedchamber.txt (100 entries)
+   • office.txt (100 entries)
+   • alchemists_lab.txt (100 entries)
+   • fantasy_desk.txt (100 entries)
+   • hunters_camp.txt (100 entries)
+   • royal_tomb.txt (100 entries)
+   • warehouse.txt (100 entries)
+   • wizards_chamber.txt (100 entries)
+   • bandit_hideout.txt (100 entries)
+   • port_masters_office.txt (100 entries)
+   • ship_captains_quarters.txt (100 entries)
+
+📁 NAMES: Character Names
+   • male_names_1.txt (100 entries)
+   • male_names_2.txt (100 entries)
+   • male_names_3.txt (100 entries)
+
+CATEGORIZATION LOGIC:
+• EVENTS: Major plot events, disasters, nightmares, quest hooks
+• LOOT: Everything players can find/acquire (treasure, equipment, trinkets)
+• CONSUMABLES: Things that get used up (food, potions, ingredients)
+• MAGIC: Supernatural effects applied to characters
+• LOCATIONS: What you encounter/find in terrain types and specific rooms
+• NAMES: Reference tables for NPCs and world-building
+
+6 logical categories based on HOW the tables are used in play
